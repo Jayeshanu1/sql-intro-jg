@@ -1,4 +1,10 @@
--- Create the students table
+-- -- Create the students table
+-- CREATE TABLE students ( 
+--   id INTEGER PRIMARY KEY AUTOINCREMENT
+
+-- )
+
+
 
 CREATE TABLE students (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
